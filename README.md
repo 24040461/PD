@@ -14,6 +14,16 @@ Cucumber tests
 
 Notes recap
 
+HTML CSS JS helping people who were struggling
+
+CMD line interface
+
+Creating a document for PD
+
+Adding content to the trainline app with the group
+
+
+
 
 
 
