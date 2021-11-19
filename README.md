@@ -10,7 +10,9 @@ Went back over some HTML CSS JS as had previous knowleadge but have not done it 
 
 Presentation about napolean - research and creating slides
 
-Cucumber tests
+Cucumber Tests
+
+Selenium Tests
 
 Notes recap
 
@@ -20,11 +22,5 @@ CMD line interface
 
 Creating a document for PD
 
-Adding content to the trainline app with the group
-
-
-
-
-
-
+Adding content to the trainline app with the group - Designs
 
